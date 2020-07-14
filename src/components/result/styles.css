@@ -1,0 +1,27 @@
+.col-1{
+    width: 15%;
+}
+
+.col-2{
+    width: 25%;
+}
+
+.col-3{
+    width: 15%;
+}
+
+.col-4{
+    width: 15%;
+}
+
+.col-5{
+    width: 15%;
+}
+
+.open-btn {
+    width: 60px;
+}
+
+.result {
+    margin-bottom: 2px;
+}

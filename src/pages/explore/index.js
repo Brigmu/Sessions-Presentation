@@ -270,6 +270,7 @@ const ExplorePage = (props) => {
                         </div>
                         <div className='error-item'>
                             <p className='error-col-1'>Diagnostics Liblet</p>
+<<<<<<< HEAD
                             <a href='#' className='error-col-2'>coj5s</a>
                         </div>
                         <div className='error-item'>
@@ -291,6 +292,29 @@ const ExplorePage = (props) => {
                         <div className='error-item'>
                             <p className='error-col-1'>Diagnostics Liblet</p>
                             <a href='#' className='error-col-2'>cl15f</a>
+=======
+                            <p className='error-col-2'>coj5s</p>
+                        </div>
+                        <div className='error-item'>
+                            <p className='error-col-1'>Diagnostics Liblet</p>
+                            <p className='error-col-2'>coj4q</p>
+                        </div>
+                        <div className='error-item'>
+                            <p className='error-col-1'>Diagnostics Liblet</p>
+                            <p className='error-col-2'>coj3y</p>
+                        </div>
+                        <div className='error-item'>
+                            <p className='error-col-1'>Diagnostics Liblet</p>
+                            <p className='error-col-2'>cot1s</p>
+                        </div>
+                        <div className='error-item'>
+                            <p className='error-col-1'>Diagnostics Liblet</p>
+                            <p className='error-col-2'>cot5l</p>
+                        </div>
+                        <div className='error-item'>
+                            <p className='error-col-1'>Diagnostics Liblet</p>
+                            <p className='error-col-2'>cl15f</p>
+>>>>>>> parent of 9d58f94... Updates
                         </div>
                     </div>
                     : <> </>}

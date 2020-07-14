@@ -2,7 +2,10 @@
   "name": "sessions-presentation",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://brigmu.github.io/sessions-presentation/",
+=======
+>>>>>>> parent of 9d58f94... Updates
   "dependencies": {
     "@fluentui/react": "^7.121.12",
     "@testing-library/jest-dom": "^4.2.4",
@@ -19,9 +22,13 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+<<<<<<< HEAD
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build"
+=======
+    "eject": "react-scripts eject"
+>>>>>>> parent of 9d58f94... Updates
   },
   "eslintConfig": {
     "extends": "react-app"
