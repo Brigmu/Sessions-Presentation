@@ -270,27 +270,27 @@ const ExplorePage = (props) => {
                         </div>
                         <div className='error-item'>
                             <p className='error-col-1'>Diagnostics Liblet</p>
-                            <p className='error-col-2'>coj5s</p>
+                            <a href='#' className='error-col-2'>coj5s</a>
                         </div>
                         <div className='error-item'>
                             <p className='error-col-1'>Diagnostics Liblet</p>
-                            <p className='error-col-2'>coj4q</p>
+                            <a href='#' className='error-col-2'>coj4q</a>
                         </div>
                         <div className='error-item'>
                             <p className='error-col-1'>Diagnostics Liblet</p>
-                            <p className='error-col-2'>coj3y</p>
+                            <a href='#' className='error-col-2'>coj3y</a>
                         </div>
                         <div className='error-item'>
                             <p className='error-col-1'>Diagnostics Liblet</p>
-                            <p className='error-col-2'>cot1s</p>
+                            <a href='#' className='error-col-2'>cot1s</a>
                         </div>
                         <div className='error-item'>
                             <p className='error-col-1'>Diagnostics Liblet</p>
-                            <p className='error-col-2'>cot5l</p>
+                            <a href='#' className='error-col-2'>cot5l</a>
                         </div>
                         <div className='error-item'>
                             <p className='error-col-1'>Diagnostics Liblet</p>
-                            <p className='error-col-2'>cl15f</p>
+                            <a href='#' className='error-col-2'>cl15f</a>
                         </div>
                     </div>
                     : <> </>}
