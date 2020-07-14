@@ -1,12 +1,7 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './styles.css';
 
 const Navitem = (props) => {
-    // const [selected, setSelected] = useState(false);
-    // const handleNavClick = (e) => {
-    //     props.handleNavClick(e);
-    //     setSelected(true);
-    // }
     return(
     <div className='nav-item'>
         <h3 onClick={props.handleNavClick}>{props.text}
